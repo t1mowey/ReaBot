@@ -1,0 +1,7 @@
+python-dotenv
+aiogram
+httpx
+fastapi
+dotenv
+sqlalchemy
+loguru
